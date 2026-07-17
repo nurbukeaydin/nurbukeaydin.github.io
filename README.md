@@ -1,6 +1,10 @@
-# Nurbüke Aydın - Portfolio Website
+# 🌐 Nurbüke Aydın | Personal Portfolio
 
-A modern, responsive portfolio website showcasing my work as a Computer Engineering student with expertise in iOS development, web development, and databases.
+A modern and responsive portfolio website showcasing my software development projects, technical skills, leadership experience, and journey as a Computer Engineering student.
+
+### 🔗 Live Website
+
+👉 https://nurbukeaydin.github.io
 
 ## 🚀 Features
 
