@@ -59,6 +59,8 @@ portfolio/
    - Custom Unix Utilities & xv6 Kernel (C, Linux System Calls)
    - University Club Management System (PostgreSQL, SQL)
 5. **Professional Experience & Leadership**:
+   - StudyFlow — iOS study planner and Pomodoro productivity app
+  built with SwiftUI, SwiftData, and Apple Charts
    - Codit Technology (IT Intern)
    - LOOP Software & Ideas Team (Core Team Member)
    - DOU Mühendis Beyinler Kulübü (Vice Chairman)
