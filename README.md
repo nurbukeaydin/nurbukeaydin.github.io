@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website.
 
-This portfolio showcases my software development projects, technical skills, leadership experience, and journey as a Computer Engineering student.
+This portfolio showcases my software development projects, technical skills, professional experience, leadership roles, and journey as a Computer Engineering student.
 
 ## 🚀 Live Website
 
@@ -12,15 +12,15 @@ This portfolio showcases my software development projects, technical skills, lea
 
 # 👩‍💻 About Me
 
-I'm a Computer Engineering student passionate about building modern software products.
+I'm a senior Computer Engineering student focused on iOS and mobile application development.
 
-My primary interests include
+My primary interests include:
 
-- 📱 iOS Development
-- 🌐 Web Development
-- 🗄️ Database Systems
-- ☁️ Cloud Technologies
-- 🤖 AI-powered Applications
+* 📱 iOS & Mobile Development
+* 🍎 Swift & SwiftUI
+* 🗄️ Database Systems
+* 🤖 AI-powered Applications
+* 🌐 Web Development
 
 ---
 
@@ -28,26 +28,26 @@ My primary interests include
 
 ## 📚 StudyFlow
 
-StudyFlow is a modern productivity application built using SwiftUI.
+StudyFlow is a native iOS productivity application built using SwiftUI.
 
 It helps students organize their studies through:
 
-- ✅ Task Management
-- 🍅 Pomodoro Timer
-- 📅 Calendar Planner
-- 📈 Productivity Statistics
-- 🏆 Achievement System
-- 🔥 Study Streak Tracking
+* ✅ Task Management
+* 🍅 Pomodoro Timer
+* 📅 Calendar Planning
+* 📈 Productivity Statistics
+* 🏆 Achievement System
+* 🔥 Study Streak Tracking
 
 ### Tech Stack
 
-- Swift
-- SwiftUI
-- SwiftData
-- Apple Charts
-- Combine
+* Swift
+* SwiftUI
+* SwiftData
+* Combine
+* Apple Charts
 
-Repository
+Repository:
 
 https://github.com/nurbukeaydin/StudyFlow
 
@@ -55,18 +55,24 @@ https://github.com/nurbukeaydin/StudyFlow
 
 # 🛠 Technologies
 
-- Swift
-- SwiftUI
-- HTML
-- CSS
-- JavaScript
-- PostgreSQL
-- SQL
-- Git
-- GitHub
-- C#
-- Java
-- Python
+* Swift
+* SwiftUI
+* SwiftData
+* Combine
+* Apple Charts
+* Kotlin
+* Jetpack Compose
+* HTML
+* CSS
+* JavaScript
+* React
+* PostgreSQL
+* SQL
+* Git
+* GitHub
+* Java
+* Python
+* C / C++
 
 ---
 
@@ -74,19 +80,31 @@ https://github.com/nurbukeaydin/StudyFlow
 
 ### 📚 StudyFlow
 
-Modern iOS productivity application.
+Native iOS productivity application.
 
 ### 🤖 AI Vision Assistant
 
 Android AI assistant powered by Google Gemini API.
 
-### 🖥 Custom Unix Utilities & xv6 Kernel
+### 🏫 University Club and Event Management System
 
-Low-level systems programming project.
+Relational database system developed using PostgreSQL and SQL.
 
-### 🏫 University Club Management System
+---
 
-Database management system developed using PostgreSQL.
+# 💼 Professional Experience
+
+### 🤖 Microsoft
+
+AI Innovators Summer Intern | June 2026 - July 2026
+
+### 🏢 Codit Technology
+
+IT Intern | July 2025 - August 2025
+
+### 👥 DOU Mühendis Beyinler Kulübü
+
+Vice President | October 2025 - August 2026
 
 ---
 
@@ -94,7 +112,7 @@ Database management system developed using PostgreSQL.
 
 📧 Email
 
-nurbukeaydin@gmail.com
+[nurbukeaydin@gmail.com](mailto:nurbukeaydin@gmail.com)
 
 💼 LinkedIn
 
