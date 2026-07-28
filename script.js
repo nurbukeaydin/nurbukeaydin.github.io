@@ -1,10 +1,10 @@
 const typingText = document.getElementById('typing');
 const phrases = [
     'Computer Engineering Student',
-    'iOS Developer',
-    'Web Developer',
-    'Tech Enthusiast',
-    'Problem Solver'
+    'iOS & Mobile Developer',
+    'SwiftUI Developer',
+    'Database Enthusiast',
+    'AI & RAG Developer'
 ];
 
 let phraseIndex = 0;
